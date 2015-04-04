@@ -1,0 +1,6 @@
+Resist the power
+Residential 0 2314532 0 You can do it Road
+Residential 1 4632234 1 Roady Road Drive
+Comercial 1 432351234 1 General Conference rd.
+Commercial 0 6234343 1 Thomas S. Monson st.
+Commercial 1 23453245 1 Hinkley Street.

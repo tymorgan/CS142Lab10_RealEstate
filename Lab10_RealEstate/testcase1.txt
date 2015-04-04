@@ -1,0 +1,5 @@
+Residential 1 290500 1 34 E. 500 N.
+Commercial 0 555567 0 0.20 345 Mushroom Mansion
+Residential 1 9990000 0 572 Rocky Road
+Commerical 4342443 Mess Up Way
+Commercial 1 604567 1 0.10 350 Sea Towers

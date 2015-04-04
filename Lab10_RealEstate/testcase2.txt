@@ -1,0 +1,5 @@
+Residential 1 3333344 0 777 East Hollywood
+This is a test
+Commercial 1 445623 0 0.5 This is my Address
+Residential 0 3425324 1 Growing Up
+Commercial 0 222123 1 White Swan Rd.
